@@ -2,7 +2,8 @@
 
 [//]: # (<img alt="workshop/tictactoe" width="1412" src="../.resources/tictactoe.png">)
 
-By Agarmen
+Discord: Agarmen
+
 A standard game of Tic-Tac-Toe in Leo.
 
 ⭕ ❕ ⭕ ❕ ❌
